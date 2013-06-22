@@ -55,9 +55,20 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Data\Archive.cs" />
+    <Compile Include="Data\BoundingMesh.cs" />
+    <Compile Include="Data\Emitter.cs" />
     <Compile Include="Data\IArchiveLoader.cs" />
     <Compile Include="Data\IAsset.cs" />
+    <Compile Include="Data\Item.cs" />
+    <Compile Include="Data\Kinematics.cs" />
+    <Compile Include="Data\Mesh.cs" />
+    <Compile Include="Data\VisualMesh.cs" />
+    <Compile Include="Data\Mutation.cs" />
+    <Compile Include="Data\Projectile.cs" />
+    <Compile Include="Data\Quaternion.cs" />
     <Compile Include="Data\Shader.cs" />
+    <Compile Include="Data\Vector.cs" />
+    <Compile Include="Data\Vehicle.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Rendering\Renderer.cs" />
